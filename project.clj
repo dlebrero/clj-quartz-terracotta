@@ -1,4 +1,4 @@
-(defproject clj-quartz-terracotta "0.2.0-SNAPSHOT"
+(defproject clj-quartz-terracotta "0.2.0"
   :description "Some utils for running Quartz in Terracotta"
   :url "http://github.com/dlebrero/clj-quartz-terracotta"
   :license {:name "Eclipse Public License"
